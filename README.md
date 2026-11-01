@@ -21,6 +21,7 @@ machine learning, and building practical solutions to real-world problems.
 
 ### Book Recommendation System
 [https://github.com/Connor-Debus/Book_Recommendation]
+Role: Production Lead
 A recommendation application developed to suggest books based on
 user preferences and recommendation algorithms.
 
@@ -28,6 +29,7 @@ user preferences and recommendation algorithms.
 
 ### Stu_Shell — LTI Linux Sandbox
 [https://github.com/Connor-Debus/lti_shell]
+Role: Production Lead
 A web-based Linux learning environment designed to integrate
 with Moodle through LTI.
 
@@ -38,6 +40,7 @@ supports assignment management and automated grading workflows.
 
 ### Automatic Python Documentation Generator
 [https://github.com/Connor-Debus/CS_396_project_3]
+Role: Sole Developer 
 A microservices-based application that automatically generates
 comments and docstrings for Python source code.
 
