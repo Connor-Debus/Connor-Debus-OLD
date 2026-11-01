@@ -20,12 +20,14 @@ machine learning, and building practical solutions to real-world problems.
 ## Featured Projects
 
 ### Book Recommendation System
+[https://github.com/Connor-Debus/Book_Recommendation]
 A recommendation application developed to suggest books based on
 user preferences and recommendation algorithms.
 
 **Skills:** Python, Recommendation Systems, Data Processing
 
 ### Stu_Shell — LTI Linux Sandbox
+[https://github.com/Connor-Debus/lti_shell]
 A web-based Linux learning environment designed to integrate
 with Moodle through LTI.
 
@@ -35,6 +37,7 @@ supports assignment management and automated grading workflows.
 **Technologies:** Python, FastAPI, React, Docker, Linux, LTI
 
 ### Automatic Python Documentation Generator
+[https://github.com/Connor-Debus/CS_396_project_3]
 A microservices-based application that automatically generates
 comments and docstrings for Python source code.
 
